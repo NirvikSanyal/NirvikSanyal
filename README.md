@@ -1,120 +1,44 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Nirvik Sanyal</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nirviksanyal&label=Profile%20views&color=0e75b6&style=flat" alt="nirviksanyal" /> </p>
 
-# Hi there 👋 I'm Nirvik Sanyal
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nirviksanyal" alt="nirviksanyal" /></a> </p>
 
-🎓 B.Tech CSE Student at KIIT University
-💻 Aspiring Software Developer & ML Engineer
-🚀 Currently looking for Software Development and Machine Learning roles
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
----
+- 🌱 I’m currently learning **React, Node.js, Cloud & AI Integration**
 
-## 👨‍💻 About Me
+- 👯 I’m looking to collaborate on **AI + Web Development Projects**
 
-* 🔭 Working on Machine Learning and Full-Stack Development projects
-* 🌱 Learning Advanced Backend Development, Cloud Computing & AI Integration
-* 👯 Open to collaborating on Open Source, AI/ML, and Web Development projects
-* 💬 Ask me about Python, Flask, TensorFlow, APIs, and ML Projects
-* ⚡ I enjoy building AI applications that solve real-world problems
+- 🤝 I’m looking for help with **Backend & Cloud Integration**
 
----
+- 👨‍💻 All of my projects are available at [file:///C:/Users/KIIT/Downloads/nirvik_portfolio%20(1).html](file:///C:/Users/KIIT/Downloads/nirvik_portfolio%20(1).html)
 
-## 🎓 Education
+- 💬 Ask me about **javascript,React**
 
-* 🏫 Class 10 — Don Bosco School, Siliguri
-* 🏫 Class 12 — Delhi Public School, Siliguri
-* 🎓 B.Tech in Computer Science Engineering — KIIT University
+- 📫 How to reach me **sanyalnirvik@gmail.com**
 
----
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1Q4a01WazjlMy9WKRC3qNzAEVMoxwT7ZS](https://drive.google.com/drive/folders/1Q4a01WazjlMy9WKRC3qNzAEVMoxwT7ZS)
 
-## 🛠️ Tech Stack
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-### 💻 Languages
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/dev.to nirviksanyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to nirviksanyal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nirvik sanyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nirvik sanyal" height="30" width="40" /></a>
+<a href="https://instagram.com/nirvikkkk._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nirvikkkk._" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/mix-tures" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mix-tures" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/nir-ss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nir-ss" height="30" width="40" /></a>
+</p>
 
-* Python
-* SQL
-* JavaScript
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-### ⚙️ Frameworks & Tools
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirviksanyal&show_icons=true&locale=en&layout=compact" alt="nirviksanyal" /></p>
 
-* Flask
-* TensorFlow
-* Keras
-* Git
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nirviksanyal&show_icons=true&locale=en" alt="nirviksanyal" /></p>
 
-### 📚 Libraries
-
-* NumPy
-* Pandas
-* Scikit-learn
-
-### 🧠 Concepts
-
-* REST APIs
-* Machine Learning
-* CNNs
-* Data Structures & Algorithms
-
----
-
-## 📌 Projects
-
-### 🧠 Brain Tumor Classification using Hybrid CNN
-
-Deep learning-based brain tumor detection system using TensorFlow, Keras, and Streamlit.
-
-### 🍎 Food Nutrition Scanner
-
-AI-powered nutrition analysis system for identifying food nutrients and calories.
-
-### 💉 Diabetes Prediction & Insulin Recommendation System
-
-Machine learning model for diabetes prediction with insulin recommendation support.
-
----
-
-## 📜 Certifications
-
-* AWS Academy Graduate — Cloud Architecting
-* Data Analysis with Python — Coursera
-* Tools for Data Science — Coursera
-* Data Analytics Job Simulation — Forage
-* DSA for Product-Based Companies — ExcelR EdTech Pvt. Ltd.
-
----
-
-## 📫 Connect With Me
-
-📧 Email: **[sanyalnirvik@gmail.com](mailto:sanyalnirvik@gmail.com)**
-📱 Phone: **9064012990**
-
-### 🌐 GitHub
-
-⭐️ From [NirvikSanyal](https://github.com/NirvikSanyal)
-
----
-
-## 📈 GitHub Stats
-
-![Nirvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=NirvikSanyal\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NirvikSanyal\&layout=compact\&theme=tokyonight)
-
----
-
-## 🚀 Quote
-
-> “Code. Learn. Build. Repeat.”
-**NirvikSanyal/NirvikSanyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nirviksanyal&" alt="nirviksanyal" /></p>
