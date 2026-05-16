@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 # Hi there 👋 I'm Nirvik Sanyal
 
 🎓 B.Tech CSE Student at KIIT University
@@ -117,4 +117,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
