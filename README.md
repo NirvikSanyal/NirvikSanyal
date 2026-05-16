@@ -19,8 +19,6 @@
 
 - 📫 How to reach me **sanyalnirvik@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1Q4a01WazjlMy9WKRC3qNzAEVMoxwT7ZS](https://drive.google.com/drive/folders/1Q4a01WazjlMy9WKRC3qNzAEVMoxwT7ZS)
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
